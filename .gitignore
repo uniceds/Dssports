@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# imagenes personales (no publicar)
+IMG_5227.jpg
+public/face.png
