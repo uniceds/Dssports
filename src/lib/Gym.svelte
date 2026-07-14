@@ -20,7 +20,7 @@
     'Sintiendo el pump 💪',
     '¡Casi lo logras! 😤',
     '¡La polera no aguanta! 🫣',
-    '¡¡BESTIA MODE!! 🦾',
+    '¡BESTIA MODE! 🦾',
   ]
 
   // --- Geometría del personaje (viewBox 0 0 240 260) ---
