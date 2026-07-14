@@ -239,6 +239,9 @@
     text-align: center;
     color: #eef2f7;
     font-family: system-ui, sans-serif;
+    /* evita el zoom por doble-tap al apretar rapido en movil */
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
     user-select: none;
   }
   .msg {
@@ -321,6 +324,9 @@
     cursor: pointer;
     box-shadow: 0 6px 0 #a52020, 0 10px 18px rgba(0, 0, 0, 0.4);
     transition: transform 0.05s, box-shadow 0.05s;
+    touch-action: manipulation;
+    -webkit-user-select: none;
+    user-select: none;
   }
   .cta:active {
     transform: translateY(5px);
