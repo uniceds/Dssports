@@ -1,5 +1,5 @@
 <main>
-  <h1>Próximamente</h1>
+  <h1>.</h1>
 </main>
 
 <style>
