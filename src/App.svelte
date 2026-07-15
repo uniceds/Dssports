@@ -5,7 +5,7 @@
 </script>
 
 <main>
-  <h1>buena daniel</h1>
+  <h1>Javi te amo</h1>
 </main>
 
 <style>
